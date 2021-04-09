@@ -1,0 +1,4 @@
+President_Full_Name
+Date
+Speech_Title
+Speech_Contents
