@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1tHcnMc8EYggQpvmx_zR5wEkgaMXFTJbj?usp=sh
 
 ## Speeches
 <ol>
-  <li>Go to [this website](https://millercenter.org/the-presidency/presidential-speeches) to extract the speeches. </li>
+  <li>Go to ![this website](https://millercenter.org/the-presidency/presidential-speeches) to extract the speeches. </li>
   <li>Filter by president</li>
   <li>Select a speech</li>
   <li>Click "Show Transcipt"</li>
