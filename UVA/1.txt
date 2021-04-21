@@ -68,53 +68,6 @@ University of Virginia Miller Center
 Presidential Speech Text
 Search Presidential Speeches
 FILTER
-PRESIDENTDATEAND
-
-George Washington
-John Adams
-Thomas Jefferson
-James Madison
-James Monroe
-John Quincy Adams
-Andrew Jackson
-Martin Van Buren
-William Harrison
-John Tyler
-James K. Polk
-Zachary Taylor
-Millard Fillmore
-Franklin Pierce
-James Buchanan
-Abraham Lincoln
-Andrew Johnson
-Ulysses S. Grant
-Rutherford B. Hayes
-James A. Garfield
-Chester A. Arthur
-Grover Cleveland
-Benjamin Harrison
-William McKinley
-Theodore Roosevelt
-William Taft
-Woodrow Wilson
-Warren G. Harding
-Calvin Coolidge
-Herbert Hoover
-Franklin D. Roosevelt
-Harry S. Truman
-Dwight D. Eisenhower
-John F. Kennedy
-Lyndon B. Johnson
-Richard M. Nixon
-Gerald Ford
-Jimmy Carter
-Ronald Reagan
-George H. W. Bush
-Bill Clinton
-George W. Bush
-Barack Obama
-Donald Trump
-Joe Biden
 March 25, 2021: First Press Conference
 Joe Biden
 THE PRESIDENT: Please, please sit down. Thank you. Thank you. Good afternoon. Before I take questions, I want to make — give you a progress report to the nation on where we stand 65 days into office here on vaccinations and a few other top priorities for the American people.
